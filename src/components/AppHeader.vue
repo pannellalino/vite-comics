@@ -117,6 +117,6 @@ header{
   }
 }
 img{
-  height: 80px;
+  height: 90px;
 }
 </style>

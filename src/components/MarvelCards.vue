@@ -21,15 +21,17 @@ export default {
 .card{
   padding: 10px;
   width: calc(100% / 6);
-  height: 245px;
+  height: 100%;
   img{
     width: 100%;
     aspect-ratio: 1/1;
+    object-fit: cover;
+    object-position: top;
   }
   h4{
     margin-top: 10px;
     color: white;
-    font-size: .9rem;
+    font-size: .8rem;
     text-transform: uppercase;
   }
 }
