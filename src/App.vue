@@ -3,6 +3,7 @@
   import AppMain from "./components/AppMain.vue";
   import AppSlider from "./components/AppSlider.vue";
   import AppFooter from "./components/AppFooter.vue";
+  import AppJumbotron from "./components/AppJumbotron.vue";
 
   export default {
   name: 'App',
@@ -10,14 +11,16 @@
     AppHeader,
     AppMain,
     AppSlider,
-    AppFooter
-  }
+    AppFooter,
+    AppJumbotron,
+    }
   }
 </script>
 
 
 <template>
   <AppHeader/>
+  <AppJumbotron/>
   <AppMain/>
   <AppSlider/>
   <AppFooter/>
