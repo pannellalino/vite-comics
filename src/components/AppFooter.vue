@@ -82,7 +82,6 @@
 <style lang="scss" scoped>
 footer{
   .footer-top{
-    height: 400px;
     background-image: url('../assets/img/footer-bg.jpg');
     background-size: cover;
     .container{

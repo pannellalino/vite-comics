@@ -30,6 +30,7 @@ export default {
     margin-top: 10px;
     color: white;
     font-size: .9rem;
+    text-transform: uppercase;
   }
 }
 
