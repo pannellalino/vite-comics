@@ -40,7 +40,7 @@ import card from '../data/card';
 <style lang="scss" scoped>
 main{
   padding: 50px 0 20px 0;
-  background-color: black;
+  background-color: #151515;
   display: flex;
   align-items: center;
   h1{
