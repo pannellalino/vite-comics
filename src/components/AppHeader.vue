@@ -65,7 +65,7 @@
   <header>
     <div class="container">
       <div class="logo">
-        <img src="../assets/img/dc-logo.png" alt="Logo">
+        <img src="/dc-logo.png" alt="Logo">
       </div>
       <nav>
         <ul>
